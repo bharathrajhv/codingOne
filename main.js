@@ -1,6 +1,7 @@
 document.addEventListener("DOMContentLoaded", function(event) {
     let toSwap;
     let tempCard;
+    // console.log('check');
     let cardData = [
         {val:1, color:'grey'}, // because font is not visible in black (#000000) background
         {val:2, color:'#333333'},
